@@ -1,0 +1,55 @@
+# Vivado generated files
+*.jou
+*.log
+*.str
+*.xpr
+*.bit
+*.ltx
+*.mcs
+*.prm
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+*.gen/
+serial_ctrl/
+
+# ModelSim / QuestaSim
+work/
+transcript
+*.wlf
+*.ucdb
+vsim.wlf
+modelsim.ini
+*.vcd
+
+# Coverage reports
+coverage_html/
+
+# Xilinx ISE
+*.ise
+*.xise
+*.ngc
+*.ngd
+*.ncd
+*.pcf
+*.pad
+*.par
+*.xrpt
+*.ptwx
+*.unroutes
+
+# Windows
+Thumbs.db
+desktop.ini
+*.lnk
+
+# macOS
+.DS_Store
+
+# Editor temp files
+*.swp
+*~
+*.bak
